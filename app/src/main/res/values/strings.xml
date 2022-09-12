@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise3</string>
+    <string name="male">Nam</string>
+    <string name="other">Khác</string>
+    <string name="check">Kiểm tra</string>
+    <string name="female">Nữ</string>
+</resources>
